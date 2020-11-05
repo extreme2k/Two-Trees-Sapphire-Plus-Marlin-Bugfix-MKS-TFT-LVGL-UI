@@ -1,4 +1,7 @@
 # Two-Trees-Sapphire-Plus-Marlin-Bugfix-MKS-TFT-LVGL-UI
+
+<img align="right" width=300 src="docs/ui.png" />
+
 ### Note: This touch UI has some limitations which removes the ability to have LCD Levelling and Advance Pause Feature. You will still have a button for auto bed levelling and advanced pause has been replaced with nozzle park.
 
 This build is compiled with the current options:
