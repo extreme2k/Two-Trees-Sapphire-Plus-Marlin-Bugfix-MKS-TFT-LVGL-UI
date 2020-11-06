@@ -109,9 +109,6 @@
  Marlin\src\module\../lcd/../sd/SdVolume.h \
  Marlin\src\module\../lcd/../sd/Sd2Card_sdio.h \
  Marlin\src\module\../lcd/../sd/SdFatStructs.h \
- Marlin\src\module\../lcd/../feature/pause.h \
- Marlin\src\module\../lcd/../feature/../libs/nozzle.h \
- Marlin\src\module\../lcd/lcdprint.h Marlin\src\module\../lcd/fontutils.h \
  Marlin\src\module\../HAL/shared/Delay.h \
  Marlin\src\module\../feature/powerloss.h \
  Marlin\src\module\../feature/../gcode/gcode.h \
@@ -342,14 +339,6 @@ Marlin\src\module\../lcd/../sd/SdVolume.h:
 Marlin\src\module\../lcd/../sd/Sd2Card_sdio.h:
 
 Marlin\src\module\../lcd/../sd/SdFatStructs.h:
-
-Marlin\src\module\../lcd/../feature/pause.h:
-
-Marlin\src\module\../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\module\../lcd/lcdprint.h:
-
-Marlin\src\module\../lcd/fontutils.h:
 
 Marlin\src\module\../HAL/shared/Delay.h:
 

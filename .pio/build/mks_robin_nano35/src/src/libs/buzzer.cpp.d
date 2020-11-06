@@ -101,12 +101,7 @@
  Marlin\src\libs\../lcd/../sd/SdFatConfig.h \
  Marlin\src\libs\../lcd/../sd/SdVolume.h \
  Marlin\src\libs\../lcd/../sd/Sd2Card_sdio.h \
- Marlin\src\libs\../lcd/../sd/SdFatStructs.h \
- Marlin\src\libs\../lcd/../MarlinCore.h \
- Marlin\src\libs\../lcd/../feature/pause.h \
- Marlin\src\libs\../lcd/../feature/../libs/nozzle.h \
- Marlin\src\libs\../lcd/../module/motion.h \
- Marlin\src\libs\../lcd/lcdprint.h Marlin\src\libs\../lcd/fontutils.h
+ Marlin\src\libs\../lcd/../sd/SdFatStructs.h
 
 Marlin\src\libs\../inc/MarlinConfig.h:
 
@@ -317,15 +312,3 @@ Marlin\src\libs\../lcd/../sd/SdVolume.h:
 Marlin\src\libs\../lcd/../sd/Sd2Card_sdio.h:
 
 Marlin\src\libs\../lcd/../sd/SdFatStructs.h:
-
-Marlin\src\libs\../lcd/../MarlinCore.h:
-
-Marlin\src\libs\../lcd/../feature/pause.h:
-
-Marlin\src\libs\../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\libs\../lcd/../module/motion.h:
-
-Marlin\src\libs\../lcd/lcdprint.h:
-
-Marlin\src\libs\../lcd/fontutils.h:

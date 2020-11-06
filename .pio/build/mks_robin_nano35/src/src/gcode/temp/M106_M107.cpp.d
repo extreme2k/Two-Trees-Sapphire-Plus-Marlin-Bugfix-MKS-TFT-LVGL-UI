@@ -96,22 +96,7 @@
  Marlin\src\gcode\temp\../../module/motion.h \
  Marlin\src\gcode\temp\../../module/temperature.h \
  Marlin\src\gcode\temp\../../module/thermistor/thermistors.h \
- Marlin\src\gcode\temp\../../module/thermistor/thermistor_1.h \
- Marlin\src\gcode\temp\../../lcd/marlinui.h \
- Marlin\src\gcode\temp\../../lcd/../libs/buzzer.h \
- Marlin\src\gcode\temp\../../lcd/../libs/circularqueue.h \
- Marlin\src\gcode\temp\../../lcd/../sd/cardreader.h \
- Marlin\src\gcode\temp\../../lcd/../sd/SdFile.h \
- Marlin\src\gcode\temp\../../lcd/../sd/SdBaseFile.h \
- Marlin\src\gcode\temp\../../lcd/../sd/SdFatConfig.h \
- Marlin\src\gcode\temp\../../lcd/../sd/SdVolume.h \
- Marlin\src\gcode\temp\../../lcd/../sd/Sd2Card_sdio.h \
- Marlin\src\gcode\temp\../../lcd/../sd/SdFatStructs.h \
- Marlin\src\gcode\temp\../../lcd/../MarlinCore.h \
- Marlin\src\gcode\temp\../../lcd/../feature/pause.h \
- Marlin\src\gcode\temp\../../lcd/../feature/../libs/nozzle.h \
- Marlin\src\gcode\temp\../../lcd/lcdprint.h \
- Marlin\src\gcode\temp\../../lcd/fontutils.h
+ Marlin\src\gcode\temp\../../module/thermistor/thermistor_1.h
 
 Marlin\src\gcode\temp\../../inc/MarlinConfig.h:
 
@@ -308,33 +293,3 @@ Marlin\src\gcode\temp\../../module/temperature.h:
 Marlin\src\gcode\temp\../../module/thermistor/thermistors.h:
 
 Marlin\src\gcode\temp\../../module/thermistor/thermistor_1.h:
-
-Marlin\src\gcode\temp\../../lcd/marlinui.h:
-
-Marlin\src\gcode\temp\../../lcd/../libs/buzzer.h:
-
-Marlin\src\gcode\temp\../../lcd/../libs/circularqueue.h:
-
-Marlin\src\gcode\temp\../../lcd/../sd/cardreader.h:
-
-Marlin\src\gcode\temp\../../lcd/../sd/SdFile.h:
-
-Marlin\src\gcode\temp\../../lcd/../sd/SdBaseFile.h:
-
-Marlin\src\gcode\temp\../../lcd/../sd/SdFatConfig.h:
-
-Marlin\src\gcode\temp\../../lcd/../sd/SdVolume.h:
-
-Marlin\src\gcode\temp\../../lcd/../sd/Sd2Card_sdio.h:
-
-Marlin\src\gcode\temp\../../lcd/../sd/SdFatStructs.h:
-
-Marlin\src\gcode\temp\../../lcd/../MarlinCore.h:
-
-Marlin\src\gcode\temp\../../lcd/../feature/pause.h:
-
-Marlin\src\gcode\temp\../../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\gcode\temp\../../lcd/lcdprint.h:
-
-Marlin\src\gcode\temp\../../lcd/fontutils.h:

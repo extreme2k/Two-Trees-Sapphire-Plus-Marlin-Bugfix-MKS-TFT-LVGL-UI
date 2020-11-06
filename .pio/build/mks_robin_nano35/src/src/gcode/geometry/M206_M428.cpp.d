@@ -105,11 +105,7 @@
  Marlin\src\gcode\geometry\../../lcd/../sd/SdVolume.h \
  Marlin\src\gcode\geometry\../../lcd/../sd/Sd2Card_sdio.h \
  Marlin\src\gcode\geometry\../../lcd/../sd/SdFatStructs.h \
- Marlin\src\gcode\geometry\../../lcd/../MarlinCore.h \
- Marlin\src\gcode\geometry\../../lcd/../feature/pause.h \
- Marlin\src\gcode\geometry\../../lcd/../feature/../libs/nozzle.h \
- Marlin\src\gcode\geometry\../../lcd/lcdprint.h \
- Marlin\src\gcode\geometry\../../lcd/fontutils.h
+ Marlin\src\gcode\geometry\../../MarlinCore.h
 
 Marlin\src\gcode\geometry\../../inc/MarlinConfig.h:
 
@@ -321,12 +317,4 @@ Marlin\src\gcode\geometry\../../lcd/../sd/Sd2Card_sdio.h:
 
 Marlin\src\gcode\geometry\../../lcd/../sd/SdFatStructs.h:
 
-Marlin\src\gcode\geometry\../../lcd/../MarlinCore.h:
-
-Marlin\src\gcode\geometry\../../lcd/../feature/pause.h:
-
-Marlin\src\gcode\geometry\../../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\gcode\geometry\../../lcd/lcdprint.h:
-
-Marlin\src\gcode\geometry\../../lcd/fontutils.h:
+Marlin\src\gcode\geometry\../../MarlinCore.h:

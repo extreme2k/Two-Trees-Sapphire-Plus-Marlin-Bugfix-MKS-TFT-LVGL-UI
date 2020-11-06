@@ -89,16 +89,7 @@
  Marlin\src\lcd\../inc/../core/../lcd/language/language_en.h \
  Marlin\src\lcd\../inc/../core/utility.h \
  Marlin\src\lcd\../inc/../core/../core/millis_t.h \
- Marlin\src\lcd\../inc/../core/serial.h Marlin\src\lcd\marlinui.h \
- Marlin\src\lcd\../libs/buzzer.h Marlin\src\lcd\../libs/circularqueue.h \
- Marlin\src\lcd\../sd/cardreader.h Marlin\src\lcd\../sd/SdFile.h \
- Marlin\src\lcd\../sd/SdBaseFile.h Marlin\src\lcd\../sd/SdFatConfig.h \
- Marlin\src\lcd\../sd/SdVolume.h Marlin\src\lcd\../sd/Sd2Card_sdio.h \
- Marlin\src\lcd\../sd/SdFatStructs.h Marlin\src\lcd\../MarlinCore.h \
- Marlin\src\lcd\../feature/pause.h \
- Marlin\src\lcd\../feature/../libs/nozzle.h \
- Marlin\src\lcd\../module/motion.h Marlin\src\lcd\lcdprint.h \
- Marlin\src\lcd\fontutils.h
+ Marlin\src\lcd\../inc/../core/serial.h Marlin\src\lcd\fontutils.h
 
 Marlin\src\lcd\../inc/MarlinConfig.h:
 
@@ -283,35 +274,5 @@ Marlin\src\lcd\../inc/../core/utility.h:
 Marlin\src\lcd\../inc/../core/../core/millis_t.h:
 
 Marlin\src\lcd\../inc/../core/serial.h:
-
-Marlin\src\lcd\marlinui.h:
-
-Marlin\src\lcd\../libs/buzzer.h:
-
-Marlin\src\lcd\../libs/circularqueue.h:
-
-Marlin\src\lcd\../sd/cardreader.h:
-
-Marlin\src\lcd\../sd/SdFile.h:
-
-Marlin\src\lcd\../sd/SdBaseFile.h:
-
-Marlin\src\lcd\../sd/SdFatConfig.h:
-
-Marlin\src\lcd\../sd/SdVolume.h:
-
-Marlin\src\lcd\../sd/Sd2Card_sdio.h:
-
-Marlin\src\lcd\../sd/SdFatStructs.h:
-
-Marlin\src\lcd\../MarlinCore.h:
-
-Marlin\src\lcd\../feature/pause.h:
-
-Marlin\src\lcd\../feature/../libs/nozzle.h:
-
-Marlin\src\lcd\../module/motion.h:
-
-Marlin\src\lcd\lcdprint.h:
 
 Marlin\src\lcd\fontutils.h:

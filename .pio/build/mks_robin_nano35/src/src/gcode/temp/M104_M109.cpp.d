@@ -112,10 +112,6 @@
  Marlin\src\gcode\temp\../../lcd/../sd/SdVolume.h \
  Marlin\src\gcode\temp\../../lcd/../sd/Sd2Card_sdio.h \
  Marlin\src\gcode\temp\../../lcd/../sd/SdFatStructs.h \
- Marlin\src\gcode\temp\../../lcd/../feature/pause.h \
- Marlin\src\gcode\temp\../../lcd/../feature/../libs/nozzle.h \
- Marlin\src\gcode\temp\../../lcd/lcdprint.h \
- Marlin\src\gcode\temp\../../lcd/fontutils.h \
  Marlin\src\gcode\temp\../../module/printcounter.h \
  Marlin\src\gcode\temp\../../module/../libs/stopwatch.h \
  Marlin\src\gcode\temp\../../module/../libs/duration_t.h
@@ -343,14 +339,6 @@ Marlin\src\gcode\temp\../../lcd/../sd/SdVolume.h:
 Marlin\src\gcode\temp\../../lcd/../sd/Sd2Card_sdio.h:
 
 Marlin\src\gcode\temp\../../lcd/../sd/SdFatStructs.h:
-
-Marlin\src\gcode\temp\../../lcd/../feature/pause.h:
-
-Marlin\src\gcode\temp\../../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\gcode\temp\../../lcd/lcdprint.h:
-
-Marlin\src\gcode\temp\../../lcd/fontutils.h:
 
 Marlin\src\gcode\temp\../../module/printcounter.h:
 

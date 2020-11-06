@@ -105,10 +105,210 @@
  Marlin\src\sd/SdFatConfig.h Marlin\src\sd/SdVolume.h \
  Marlin\src\sd/Sd2Card_sdio.h Marlin\src\sd/SdFatStructs.h \
  Marlin\src\lcd/marlinui.h Marlin\src\lcd/../libs/buzzer.h \
- Marlin\src\lcd/../libs/circularqueue.h Marlin\src\lcd/../feature/pause.h \
- Marlin\src\lcd/../feature/../libs/nozzle.h Marlin\src\lcd/lcdprint.h \
- Marlin\src\lcd/fontutils.h Marlin\src\feature/bltouch.h \
- Marlin\src\module/servo.h Marlin\src\module/../HAL/shared/servo.h \
+ Marlin\src\lcd/../libs/circularqueue.h \
+ Marlin\src\lcd/extui/lib/mks_ui/tft_lvgl_configuration.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/lvgl.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_version.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_log.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/../../lv_conf.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/../../src/lv_conf_checker.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_task.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_mem.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_log.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_types.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_ll.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_math.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_async.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_task.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/lv_hal.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/lv_hal_disp.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/lv_hal.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/../lv_misc/lv_color.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/../lv_misc/../../lv_conf.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/../lv_misc/lv_area.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/../lv_misc/lv_ll.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/../lv_misc/lv_task.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/lv_hal_indev.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/../../lv_conf.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/lv_hal_tick.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_obj.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../../lv_conf.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_style.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_font/lv_font.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_font/../../lv_conf.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_font/lv_symbol_def.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_color.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_area.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_anim.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/../../lv_conf.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_types.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_mem.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_ll.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_log.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_bidi.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_hal/lv_hal.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_group.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_obj.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_indev.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_hal/lv_hal_indev.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_core/lv_group.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_refr.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_disp.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_debug.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/../../lv_conf.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/../lv_core/lv_style.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/../lv_core/lv_group.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_templ.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_default.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_alien.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_night.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_zen.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_mono.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_nemo.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_material.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_font/lv_font.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_font/lv_font_fmt_txt.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_font/../../lv_conf.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_font/lv_font.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_bidi.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_printf.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_btn.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../../lv_conf.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_cont.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_core/lv_obj.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_core/lv_indev.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_imgbtn.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_btn.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_img.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../../lv_conf.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_core/lv_style.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_txt.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/../../lv_conf.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_area.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/../lv_font/lv_font.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_img_decoder.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_fs.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_mem.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_types.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_area.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_basic.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_font/lv_font.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_color.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_rect.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_label.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_bidi.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_img.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_line.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_triangle.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_arc.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_img.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_misc/lv_fs.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_label.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_font/lv_font.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_font/lv_symbol_def.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_misc/lv_txt.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_label.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_line.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_page.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_misc/lv_anim.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_cont.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_list.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_page.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_img.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_chart.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_line.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_table.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_cb.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_cpicker.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_bar.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_slider.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_bar.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_led.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_btnm.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_kb.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_btnm.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_ddlist.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_objx/lv_page.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_objx/lv_label.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_roller.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_ddlist.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_ta.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_canvas.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_objx/lv_img.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_win.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_tabview.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_objx/lv_win.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_tileview.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_mbox.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_gauge.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_lmeter.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_lmeter.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_sw.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_slider.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_arc.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_preload.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_calendar.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_spinbox.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_objx/lv_ta.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_draw/lv_img_cache.h \
+ .pio\libdeps\mks_robin_nano35\lvgl/src/lv_draw/lv_img_decoder.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_ui.h \
+ Marlin\src\lcd/extui/lib/mks_ui/tft_multi_language.h \
+ Marlin\src\lcd/extui/lib/mks_ui/tft_Language_en.h \
+ Marlin\src\lcd/extui/lib/mks_ui/tft_Language_s_cn.h \
+ Marlin\src\lcd/extui/lib/mks_ui/tft_Language_t_cn.h \
+ Marlin\src\lcd/extui/lib/mks_ui/tft_Language_ru.h \
+ Marlin\src\lcd/extui/lib/mks_ui/tft_Language_fr.h \
+ Marlin\src\lcd/extui/lib/mks_ui/tft_Language_sp.h \
+ Marlin\src\lcd/extui/lib/mks_ui/tft_Language_it.h \
+ Marlin\src\lcd/extui/lib/mks_ui/pic_manager.h \
+ Marlin\src\lcd/extui/lib/mks_ui/../../../../libs/W25Qxx.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_ready_print.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_language.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_set.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_tool.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_print_file.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_dialog.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_printing.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_operation.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_preHeat.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_extrusion.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_home.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_move_motor.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_fan.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_about.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_change_speed.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_manuaLevel.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_error_message.h \
+ Marlin\src\lcd/extui/lib/mks_ui/printer_operation.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_machine_para.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_machine_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_motor_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_advance_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_acceleration_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_number_key.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_jerk_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_pause_position.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_step_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_tmc_current_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_eeprom_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_max_feedrate_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_tmc_step_mode_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_level_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_manual_level_pos_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_auto_level_offset_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_filament_change.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_filament_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_homing_sensitivity_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_baby_stepping.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_keyboard.h \
+ Marlin\src\lcd/extui/lib/mks_ui/draw_encoder_settings.h \
+ Marlin\src\lcd/extui/lib/mks_ui/mks_hardware_test.h \
+ Marlin\src\feature/bltouch.h Marlin\src\module/servo.h \
+ Marlin\src\module/../HAL/shared/servo.h \
  Marlin\src\module/../HAL/shared/../STM32F1/Servo.h \
  Marlin\src\feature/bedlevel/bedlevel.h \
  Marlin\src\feature/bedlevel/abl/abl.h Marlin\src\feature/powerloss.h \
@@ -365,13 +565,407 @@ Marlin\src\lcd/../libs/buzzer.h:
 
 Marlin\src\lcd/../libs/circularqueue.h:
 
-Marlin\src\lcd/../feature/pause.h:
+Marlin\src\lcd/extui/lib/mks_ui/tft_lvgl_configuration.h:
 
-Marlin\src\lcd/../feature/../libs/nozzle.h:
+.pio\libdeps\mks_robin_nano35\lvgl/lvgl.h:
 
-Marlin\src\lcd/lcdprint.h:
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_version.h:
 
-Marlin\src\lcd/fontutils.h:
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_log.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/../../lv_conf.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/../../src/lv_conf_checker.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_task.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_mem.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_log.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_types.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_ll.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_math.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_async.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_task.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/lv_hal.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/lv_hal_disp.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/lv_hal.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/../lv_misc/lv_color.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/../lv_misc/../../lv_conf.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/../lv_misc/lv_area.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/../lv_misc/lv_ll.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/../lv_misc/lv_task.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/lv_hal_indev.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/../../lv_conf.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_hal/lv_hal_tick.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_obj.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../../lv_conf.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_style.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_font/lv_font.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_font/../../lv_conf.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_font/lv_symbol_def.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_color.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_area.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_anim.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/../../lv_conf.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_types.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_mem.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_ll.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_log.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_misc/lv_bidi.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_hal/lv_hal.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_group.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_obj.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_indev.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_hal/lv_hal_indev.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/../lv_core/lv_group.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_refr.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_disp.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_core/lv_debug.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/../../lv_conf.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/../lv_core/lv_style.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/../lv_core/lv_group.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_templ.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_default.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_alien.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_night.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_zen.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_mono.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_nemo.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_themes/lv_theme_material.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_font/lv_font.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_font/lv_font_fmt_txt.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_font/../../lv_conf.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_font/lv_font.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_bidi.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_misc/lv_printf.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_btn.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../../lv_conf.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_cont.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_core/lv_obj.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_core/lv_indev.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_imgbtn.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_btn.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_img.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../../lv_conf.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_core/lv_style.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_txt.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/../../lv_conf.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_area.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/../lv_font/lv_font.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_img_decoder.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_fs.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_mem.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_types.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_area.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_basic.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_font/lv_font.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_color.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_rect.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_label.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/../lv_misc/lv_bidi.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_img.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_line.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_triangle.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw_arc.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_img.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_misc/lv_fs.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_label.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_font/lv_font.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_font/lv_symbol_def.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_misc/lv_txt.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_draw/lv_draw.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_label.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_line.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_page.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_misc/lv_anim.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_cont.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_list.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_page.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_img.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_chart.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_line.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_table.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_cb.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_cpicker.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_bar.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_slider.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_bar.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_led.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_btnm.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_kb.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_btnm.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_ddlist.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_objx/lv_page.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_objx/lv_label.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_roller.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_ddlist.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_ta.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_canvas.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_objx/lv_img.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_win.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_tabview.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_objx/lv_win.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_tileview.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_mbox.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_gauge.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_lmeter.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_lmeter.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_sw.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_slider.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_arc.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_preload.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_calendar.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/lv_spinbox.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_objx/../lv_objx/lv_ta.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_draw/lv_img_cache.h:
+
+.pio\libdeps\mks_robin_nano35\lvgl/src/lv_draw/lv_img_decoder.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_ui.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/tft_multi_language.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/tft_Language_en.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/tft_Language_s_cn.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/tft_Language_t_cn.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/tft_Language_ru.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/tft_Language_fr.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/tft_Language_sp.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/tft_Language_it.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/pic_manager.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/../../../../libs/W25Qxx.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_ready_print.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_language.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_set.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_tool.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_print_file.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_dialog.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_printing.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_operation.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_preHeat.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_extrusion.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_home.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_move_motor.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_fan.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_about.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_change_speed.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_manuaLevel.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_error_message.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/printer_operation.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_machine_para.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_machine_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_motor_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_advance_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_acceleration_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_number_key.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_jerk_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_pause_position.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_step_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_tmc_current_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_eeprom_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_max_feedrate_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_tmc_step_mode_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_level_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_manual_level_pos_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_auto_level_offset_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_filament_change.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_filament_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_homing_sensitivity_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_baby_stepping.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_keyboard.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/draw_encoder_settings.h:
+
+Marlin\src\lcd/extui/lib/mks_ui/mks_hardware_test.h:
 
 Marlin\src\feature/bltouch.h:
 

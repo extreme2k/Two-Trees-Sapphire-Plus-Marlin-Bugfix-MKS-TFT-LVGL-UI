@@ -111,9 +111,7 @@
  Marlin\src\gcode\feature\runout\../../../feature/../module/../gcode/queue.h \
  Marlin\src\gcode\feature\runout\../../../feature/../module/../feature/fwretract.h \
  Marlin\src\gcode\feature\runout\../../../feature/../module/stepper.h \
- Marlin\src\gcode\feature\runout\../../../feature/../module/stepper/indirection.h \
- Marlin\src\gcode\feature\runout\../../../feature/pause.h \
- Marlin\src\gcode\feature\runout\../../../feature/../libs/nozzle.h
+ Marlin\src\gcode\feature\runout\../../../feature/../module/stepper/indirection.h
 
 Marlin\src\gcode\feature\runout\../../../inc/MarlinConfig.h:
 
@@ -338,7 +336,3 @@ Marlin\src\gcode\feature\runout\../../../feature/../module/../feature/fwretract.
 Marlin\src\gcode\feature\runout\../../../feature/../module/stepper.h:
 
 Marlin\src\gcode\feature\runout\../../../feature/../module/stepper/indirection.h:
-
-Marlin\src\gcode\feature\runout\../../../feature/pause.h:
-
-Marlin\src\gcode\feature\runout\../../../feature/../libs/nozzle.h:

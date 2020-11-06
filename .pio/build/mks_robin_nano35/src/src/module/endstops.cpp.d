@@ -106,9 +106,6 @@
  Marlin\src\module\../lcd/marlinui.h \
  Marlin\src\module\../lcd/../libs/buzzer.h \
  Marlin\src\module\../lcd/../libs/circularqueue.h \
- Marlin\src\module\../lcd/../feature/pause.h \
- Marlin\src\module\../lcd/../feature/../libs/nozzle.h \
- Marlin\src\module\../lcd/lcdprint.h Marlin\src\module\../lcd/fontutils.h \
  Marlin\src\module\../HAL/STM32F1/endstop_interrupts.h \
  Marlin\src\module\../feature/bltouch.h
 
@@ -337,14 +334,6 @@ Marlin\src\module\../lcd/marlinui.h:
 Marlin\src\module\../lcd/../libs/buzzer.h:
 
 Marlin\src\module\../lcd/../libs/circularqueue.h:
-
-Marlin\src\module\../lcd/../feature/pause.h:
-
-Marlin\src\module\../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\module\../lcd/lcdprint.h:
-
-Marlin\src\module\../lcd/fontutils.h:
 
 Marlin\src\module\../HAL/STM32F1/endstop_interrupts.h:
 

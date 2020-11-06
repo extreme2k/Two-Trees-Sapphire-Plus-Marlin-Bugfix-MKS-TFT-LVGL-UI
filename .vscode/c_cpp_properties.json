@@ -6,11 +6,13 @@
         {
             "name": "Win32",
             "includePath": [
-                "f:/Libraries/Desktop/3D Printing/Marlin Builds/BTT Sapphire Plus/Marlin-bugfix-2.0.x 2/Marlin",
+                "f:/Libraries/Desktop/3D Printing/Marlin Builds/BTT Sapphire Plus/Two-Trees-Sapphire-Plus-Marlin-Bugfix-MKS-TFT-LVGL-UI/Marlin",
                 "C:/Users/Igor Rebenko/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
                 "C:/Users/Igor Rebenko/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "C:/Users/Igor Rebenko/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                 "C:/Users/Igor Rebenko/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "f:/Libraries/Desktop/3D Printing/Marlin Builds/BTT Sapphire Plus/Two-Trees-Sapphire-Plus-Marlin-Bugfix-MKS-TFT-LVGL-UI/.pio/libdeps/mega2560/lvgl",
+                "f:/Libraries/Desktop/3D Printing/Marlin Builds/BTT Sapphire Plus/Two-Trees-Sapphire-Plus-Marlin-Bugfix-MKS-TFT-LVGL-UI/.pio/libdeps/mega2560/lvgl/src",
                 "C:/Users/Igor Rebenko/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/Igor Rebenko/.platformio/packages/framework-arduino-avr/variants/mega",
                 "C:/Users/Igor Rebenko/.platformio/packages/framework-arduino-avr/libraries/HID/src",
@@ -20,11 +22,13 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "f:/Libraries/Desktop/3D Printing/Marlin Builds/BTT Sapphire Plus/Marlin-bugfix-2.0.x 2/Marlin",
+                    "f:/Libraries/Desktop/3D Printing/Marlin Builds/BTT Sapphire Plus/Two-Trees-Sapphire-Plus-Marlin-Bugfix-MKS-TFT-LVGL-UI/Marlin",
                     "C:/Users/Igor Rebenko/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
                     "C:/Users/Igor Rebenko/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "C:/Users/Igor Rebenko/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                     "C:/Users/Igor Rebenko/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "f:/Libraries/Desktop/3D Printing/Marlin Builds/BTT Sapphire Plus/Two-Trees-Sapphire-Plus-Marlin-Bugfix-MKS-TFT-LVGL-UI/.pio/libdeps/mega2560/lvgl",
+                    "f:/Libraries/Desktop/3D Printing/Marlin Builds/BTT Sapphire Plus/Two-Trees-Sapphire-Plus-Marlin-Bugfix-MKS-TFT-LVGL-UI/.pio/libdeps/mega2560/lvgl/src",
                     "C:/Users/Igor Rebenko/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/Igor Rebenko/.platformio/packages/framework-arduino-avr/variants/mega",
                     "C:/Users/Igor Rebenko/.platformio/packages/framework-arduino-avr/libraries/HID/src",

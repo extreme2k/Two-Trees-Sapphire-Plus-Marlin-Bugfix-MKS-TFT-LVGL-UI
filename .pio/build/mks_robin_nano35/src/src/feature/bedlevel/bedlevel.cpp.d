@@ -99,20 +99,6 @@
  Marlin\src\feature\bedlevel\../../module/motion.h \
  Marlin\src\feature\bedlevel\../../module/../gcode/queue.h \
  Marlin\src\feature\bedlevel\../../module/../feature/fwretract.h \
- Marlin\src\feature\bedlevel\../../lcd/marlinui.h \
- Marlin\src\feature\bedlevel\../../lcd/../libs/buzzer.h \
- Marlin\src\feature\bedlevel\../../lcd/../libs/circularqueue.h \
- Marlin\src\feature\bedlevel\../../lcd/../sd/cardreader.h \
- Marlin\src\feature\bedlevel\../../lcd/../sd/SdFile.h \
- Marlin\src\feature\bedlevel\../../lcd/../sd/SdBaseFile.h \
- Marlin\src\feature\bedlevel\../../lcd/../sd/SdFatConfig.h \
- Marlin\src\feature\bedlevel\../../lcd/../sd/SdVolume.h \
- Marlin\src\feature\bedlevel\../../lcd/../sd/Sd2Card_sdio.h \
- Marlin\src\feature\bedlevel\../../lcd/../sd/SdFatStructs.h \
- Marlin\src\feature\bedlevel\../../lcd/../feature/pause.h \
- Marlin\src\feature\bedlevel\../../lcd/../feature/../libs/nozzle.h \
- Marlin\src\feature\bedlevel\../../lcd/lcdprint.h \
- Marlin\src\feature\bedlevel\../../lcd/fontutils.h \
  Marlin\src\feature\bedlevel\../../core/debug_out.h
 
 Marlin\src\feature\bedlevel\../../inc/MarlinConfig.h:
@@ -312,33 +298,5 @@ Marlin\src\feature\bedlevel\../../module/motion.h:
 Marlin\src\feature\bedlevel\../../module/../gcode/queue.h:
 
 Marlin\src\feature\bedlevel\../../module/../feature/fwretract.h:
-
-Marlin\src\feature\bedlevel\../../lcd/marlinui.h:
-
-Marlin\src\feature\bedlevel\../../lcd/../libs/buzzer.h:
-
-Marlin\src\feature\bedlevel\../../lcd/../libs/circularqueue.h:
-
-Marlin\src\feature\bedlevel\../../lcd/../sd/cardreader.h:
-
-Marlin\src\feature\bedlevel\../../lcd/../sd/SdFile.h:
-
-Marlin\src\feature\bedlevel\../../lcd/../sd/SdBaseFile.h:
-
-Marlin\src\feature\bedlevel\../../lcd/../sd/SdFatConfig.h:
-
-Marlin\src\feature\bedlevel\../../lcd/../sd/SdVolume.h:
-
-Marlin\src\feature\bedlevel\../../lcd/../sd/Sd2Card_sdio.h:
-
-Marlin\src\feature\bedlevel\../../lcd/../sd/SdFatStructs.h:
-
-Marlin\src\feature\bedlevel\../../lcd/../feature/pause.h:
-
-Marlin\src\feature\bedlevel\../../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\feature\bedlevel\../../lcd/lcdprint.h:
-
-Marlin\src\feature\bedlevel\../../lcd/fontutils.h:
 
 Marlin\src\feature\bedlevel\../../core/debug_out.h:

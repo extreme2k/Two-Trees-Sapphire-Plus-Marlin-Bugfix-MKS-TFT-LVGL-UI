@@ -105,10 +105,7 @@
  Marlin\src\module\../lcd/../sd/SdVolume.h \
  Marlin\src\module\../lcd/../sd/Sd2Card_sdio.h \
  Marlin\src\module\../lcd/../sd/SdFatStructs.h \
- Marlin\src\module\../lcd/../MarlinCore.h \
- Marlin\src\module\../lcd/../feature/pause.h \
- Marlin\src\module\../lcd/../feature/../libs/nozzle.h \
- Marlin\src\module\../lcd/lcdprint.h Marlin\src\module\../lcd/fontutils.h \
+ Marlin\src\module\../MarlinCore.h \
  Marlin\src\module\../feature/bedlevel/bedlevel.h \
  Marlin\src\module\../feature/bedlevel/abl/abl.h \
  Marlin\src\module\planner.h Marlin\src\module\../gcode/queue.h \
@@ -338,15 +335,7 @@ Marlin\src\module\../lcd/../sd/Sd2Card_sdio.h:
 
 Marlin\src\module\../lcd/../sd/SdFatStructs.h:
 
-Marlin\src\module\../lcd/../MarlinCore.h:
-
-Marlin\src\module\../lcd/../feature/pause.h:
-
-Marlin\src\module\../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\module\../lcd/lcdprint.h:
-
-Marlin\src\module\../lcd/fontutils.h:
+Marlin\src\module\../MarlinCore.h:
 
 Marlin\src\module\../feature/bedlevel/bedlevel.h:
 

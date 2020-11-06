@@ -12,7 +12,7 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "f:/Libraries/Desktop/3D Printing/Marlin Builds/BTT Sapphire Plus/Marlin-bugfix-2.0.x 2/.pio/build/mega2560/firmware.elf",
+            "executable": "f:/Libraries/Desktop/3D Printing/Marlin Builds/BTT Sapphire Plus/Two-Trees-Sapphire-Plus-Marlin-Bugfix-MKS-TFT-LVGL-UI/.pio/build/mega2560/firmware.elf",
             "toolchainBinDir": "C:/Users/Igor Rebenko/.platformio/packages/toolchain-atmelavr/bin",
             "preLaunchTask": {
                 "type": "PlatformIO",
@@ -24,7 +24,7 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "f:/Libraries/Desktop/3D Printing/Marlin Builds/BTT Sapphire Plus/Marlin-bugfix-2.0.x 2/.pio/build/mega2560/firmware.elf",
+            "executable": "f:/Libraries/Desktop/3D Printing/Marlin Builds/BTT Sapphire Plus/Two-Trees-Sapphire-Plus-Marlin-Bugfix-MKS-TFT-LVGL-UI/.pio/build/mega2560/firmware.elf",
             "toolchainBinDir": "C:/Users/Igor Rebenko/.platformio/packages/toolchain-atmelavr/bin",
             "internalConsoleOptions": "openOnSessionStart"
         }

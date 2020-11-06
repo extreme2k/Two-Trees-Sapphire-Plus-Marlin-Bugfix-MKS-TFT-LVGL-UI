@@ -105,13 +105,9 @@
  Marlin\src\gcode\control\../../lcd/../sd/SdVolume.h \
  Marlin\src\gcode\control\../../lcd/../sd/Sd2Card_sdio.h \
  Marlin\src\gcode\control\../../lcd/../sd/SdFatStructs.h \
- Marlin\src\gcode\control\../../lcd/../feature/pause.h \
- Marlin\src\gcode\control\../../lcd/../feature/../libs/nozzle.h \
- Marlin\src\gcode\control\../../lcd/../module/motion.h \
- Marlin\src\gcode\control\../../lcd/lcdprint.h \
- Marlin\src\gcode\control\../../lcd/fontutils.h \
  Marlin\src\gcode\control\../../module/stepper.h \
  Marlin\src\gcode\control\../../module/planner.h \
+ Marlin\src\gcode\control\../../module/motion.h \
  Marlin\src\gcode\control\../../module/../gcode/queue.h \
  Marlin\src\gcode\control\../../module/../feature/fwretract.h \
  Marlin\src\gcode\control\../../module/stepper/indirection.h
@@ -326,19 +322,11 @@ Marlin\src\gcode\control\../../lcd/../sd/Sd2Card_sdio.h:
 
 Marlin\src\gcode\control\../../lcd/../sd/SdFatStructs.h:
 
-Marlin\src\gcode\control\../../lcd/../feature/pause.h:
-
-Marlin\src\gcode\control\../../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\gcode\control\../../lcd/../module/motion.h:
-
-Marlin\src\gcode\control\../../lcd/lcdprint.h:
-
-Marlin\src\gcode\control\../../lcd/fontutils.h:
-
 Marlin\src\gcode\control\../../module/stepper.h:
 
 Marlin\src\gcode\control\../../module/planner.h:
+
+Marlin\src\gcode\control\../../module/motion.h:
 
 Marlin\src\gcode\control\../../module/../gcode/queue.h:
 

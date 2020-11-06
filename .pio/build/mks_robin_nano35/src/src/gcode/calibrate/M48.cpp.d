@@ -106,14 +106,10 @@
  Marlin\src\gcode\calibrate\../../lcd/../sd/SdVolume.h \
  Marlin\src\gcode\calibrate\../../lcd/../sd/Sd2Card_sdio.h \
  Marlin\src\gcode\calibrate\../../lcd/../sd/SdFatStructs.h \
- Marlin\src\gcode\calibrate\../../lcd/../MarlinCore.h \
- Marlin\src\gcode\calibrate\../../lcd/../feature/pause.h \
- Marlin\src\gcode\calibrate\../../lcd/../feature/../libs/nozzle.h \
- Marlin\src\gcode\calibrate\../../lcd/lcdprint.h \
- Marlin\src\gcode\calibrate\../../lcd/fontutils.h \
  Marlin\src\gcode\calibrate\../../feature/bedlevel/bedlevel.h \
  Marlin\src\gcode\calibrate\../../feature/bedlevel/abl/abl.h \
  Marlin\src\gcode\calibrate\../../module/planner.h \
+ Marlin\src\gcode\calibrate\../../module/../MarlinCore.h \
  Marlin\src\gcode\calibrate\../../module/../gcode/queue.h \
  Marlin\src\gcode\calibrate\../../module/../feature/fwretract.h
 
@@ -329,21 +325,13 @@ Marlin\src\gcode\calibrate\../../lcd/../sd/Sd2Card_sdio.h:
 
 Marlin\src\gcode\calibrate\../../lcd/../sd/SdFatStructs.h:
 
-Marlin\src\gcode\calibrate\../../lcd/../MarlinCore.h:
-
-Marlin\src\gcode\calibrate\../../lcd/../feature/pause.h:
-
-Marlin\src\gcode\calibrate\../../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\gcode\calibrate\../../lcd/lcdprint.h:
-
-Marlin\src\gcode\calibrate\../../lcd/fontutils.h:
-
 Marlin\src\gcode\calibrate\../../feature/bedlevel/bedlevel.h:
 
 Marlin\src\gcode\calibrate\../../feature/bedlevel/abl/abl.h:
 
 Marlin\src\gcode\calibrate\../../module/planner.h:
+
+Marlin\src\gcode\calibrate\../../module/../MarlinCore.h:
 
 Marlin\src\gcode\calibrate\../../module/../gcode/queue.h:
 

@@ -102,14 +102,10 @@
  Marlin\src\feature\../lcd/marlinui.h \
  Marlin\src\feature\../lcd/../libs/buzzer.h \
  Marlin\src\feature\../lcd/../libs/circularqueue.h \
- Marlin\src\feature\../lcd/../MarlinCore.h \
- Marlin\src\feature\../lcd/../feature/pause.h \
- Marlin\src\feature\../lcd/../feature/../libs/nozzle.h \
- Marlin\src\feature\../lcd/../module/motion.h \
- Marlin\src\feature\../lcd/lcdprint.h \
- Marlin\src\feature\../lcd/fontutils.h \
  Marlin\src\feature\../gcode/queue.h \
+ Marlin\src\feature\../module/motion.h \
  Marlin\src\feature\../module/planner.h \
+ Marlin\src\feature\../module/../MarlinCore.h \
  Marlin\src\feature\../module/../feature/fwretract.h \
  Marlin\src\feature\../module/printcounter.h \
  Marlin\src\feature\../module/../libs/stopwatch.h \
@@ -329,21 +325,13 @@ Marlin\src\feature\../lcd/../libs/buzzer.h:
 
 Marlin\src\feature\../lcd/../libs/circularqueue.h:
 
-Marlin\src\feature\../lcd/../MarlinCore.h:
-
-Marlin\src\feature\../lcd/../feature/pause.h:
-
-Marlin\src\feature\../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\feature\../lcd/../module/motion.h:
-
-Marlin\src\feature\../lcd/lcdprint.h:
-
-Marlin\src\feature\../lcd/fontutils.h:
-
 Marlin\src\feature\../gcode/queue.h:
 
+Marlin\src\feature\../module/motion.h:
+
 Marlin\src\feature\../module/planner.h:
+
+Marlin\src\feature\../module/../MarlinCore.h:
 
 Marlin\src\feature\../module/../feature/fwretract.h:
 

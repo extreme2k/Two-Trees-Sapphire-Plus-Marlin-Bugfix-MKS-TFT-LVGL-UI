@@ -111,9 +111,6 @@
  Marlin\src\module\../lcd/../sd/SdVolume.h \
  Marlin\src\module\../lcd/../sd/Sd2Card_sdio.h \
  Marlin\src\module\../lcd/../sd/SdFatStructs.h \
- Marlin\src\module\../lcd/../feature/pause.h \
- Marlin\src\module\../lcd/../feature/../libs/nozzle.h \
- Marlin\src\module\../lcd/lcdprint.h Marlin\src\module\../lcd/fontutils.h \
  Marlin\src\module\../libs/vector_3.h Marlin\src\module\../gcode/gcode.h \
  Marlin\src\module\../gcode/parser.h Marlin\src\module\probe.h \
  Marlin\src\module\../feature/bedlevel/bedlevel.h \
@@ -123,22 +120,12 @@
  Marlin\src\module\../HAL/shared/../STM32F1/Servo.h \
  Marlin\src\module\../feature/bltouch.h \
  Marlin\src\module\../feature/powerloss.h \
+ Marlin\src\module\../feature/pause.h \
  Marlin\src\module\../feature/runout.h \
  Marlin\src\module\../feature/../module/printcounter.h \
  Marlin\src\module\../feature/../module/../libs/stopwatch.h \
  Marlin\src\module\../feature/../module/../libs/duration_t.h \
  Marlin\src\module\../feature/controllerfan.h \
- Marlin\src\module\../lcd/tft/touch.h \
- Marlin\src\module\../lcd/tft/tft_color.h \
- Marlin\src\module\../lcd/tft/tft_image.h \
- Marlin\src\module\../lcd/tft/../../HAL/STM32F1/tft/xpt2046.h \
- Marlin\src\HAL\STM32F1/SPI.h \
- C:\users\igor\ rebenko\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/spi.h \
- C:\users\igor\ rebenko\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple/stm32f1/include/series/spi.h \
- C:\users\igor\ rebenko\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/dma.h \
- C:\users\igor\ rebenko\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple/stm32f1/include/series/dma.h \
- C:\users\igor\ rebenko\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/dma_common.h \
- C:\users\igor\ rebenko\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/wirish.h \
  Marlin\src\module\../core/debug_out.h \
  Marlin\src\module\../core/debug_section.h
 
@@ -374,14 +361,6 @@ Marlin\src\module\../lcd/../sd/Sd2Card_sdio.h:
 
 Marlin\src\module\../lcd/../sd/SdFatStructs.h:
 
-Marlin\src\module\../lcd/../feature/pause.h:
-
-Marlin\src\module\../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\module\../lcd/lcdprint.h:
-
-Marlin\src\module\../lcd/fontutils.h:
-
 Marlin\src\module\../libs/vector_3.h:
 
 Marlin\src\module\../gcode/gcode.h:
@@ -406,6 +385,8 @@ Marlin\src\module\../feature/bltouch.h:
 
 Marlin\src\module\../feature/powerloss.h:
 
+Marlin\src\module\../feature/pause.h:
+
 Marlin\src\module\../feature/runout.h:
 
 Marlin\src\module\../feature/../module/printcounter.h:
@@ -415,28 +396,6 @@ Marlin\src\module\../feature/../module/../libs/stopwatch.h:
 Marlin\src\module\../feature/../module/../libs/duration_t.h:
 
 Marlin\src\module\../feature/controllerfan.h:
-
-Marlin\src\module\../lcd/tft/touch.h:
-
-Marlin\src\module\../lcd/tft/tft_color.h:
-
-Marlin\src\module\../lcd/tft/tft_image.h:
-
-Marlin\src\module\../lcd/tft/../../HAL/STM32F1/tft/xpt2046.h:
-
-Marlin\src\HAL\STM32F1/SPI.h:
-
-C:\users\igor\ rebenko\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/spi.h:
-
-C:\users\igor\ rebenko\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple/stm32f1/include/series/spi.h:
-
-C:\users\igor\ rebenko\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/dma.h:
-
-C:\users\igor\ rebenko\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple/stm32f1/include/series/dma.h:
-
-C:\users\igor\ rebenko\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/dma_common.h:
-
-C:\users\igor\ rebenko\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/wirish.h:
 
 Marlin\src\module\../core/debug_out.h:
 

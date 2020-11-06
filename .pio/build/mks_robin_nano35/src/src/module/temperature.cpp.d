@@ -108,9 +108,6 @@
  Marlin\src\module\../lcd/../sd/SdVolume.h \
  Marlin\src\module\../lcd/../sd/Sd2Card_sdio.h \
  Marlin\src\module\../lcd/../sd/SdFatStructs.h \
- Marlin\src\module\../lcd/../feature/pause.h \
- Marlin\src\module\../lcd/../feature/../libs/nozzle.h \
- Marlin\src\module\../lcd/lcdprint.h Marlin\src\module\../lcd/fontutils.h \
  Marlin\src\module\../feature/babystep.h Marlin\src\module\printcounter.h \
  Marlin\src\module\../libs/stopwatch.h \
  Marlin\src\module\../libs/duration_t.h Marlin\src\module\./servo.h \
@@ -342,14 +339,6 @@ Marlin\src\module\../lcd/../sd/SdVolume.h:
 Marlin\src\module\../lcd/../sd/Sd2Card_sdio.h:
 
 Marlin\src\module\../lcd/../sd/SdFatStructs.h:
-
-Marlin\src\module\../lcd/../feature/pause.h:
-
-Marlin\src\module\../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\module\../lcd/lcdprint.h:
-
-Marlin\src\module\../lcd/fontutils.h:
 
 Marlin\src\module\../feature/babystep.h:
 

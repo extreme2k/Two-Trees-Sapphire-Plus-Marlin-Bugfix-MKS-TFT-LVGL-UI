@@ -104,20 +104,6 @@
  Marlin\src\gcode\bedlevel\abl\../../../module/stepper.h \
  Marlin\src\gcode\bedlevel\abl\../../../module/stepper/indirection.h \
  Marlin\src\gcode\bedlevel\abl\../../../module/probe.h \
- Marlin\src\gcode\bedlevel\abl\../../../lcd/marlinui.h \
- Marlin\src\gcode\bedlevel\abl\../../../lcd/../libs/buzzer.h \
- Marlin\src\gcode\bedlevel\abl\../../../lcd/../libs/circularqueue.h \
- Marlin\src\gcode\bedlevel\abl\../../../lcd/../sd/cardreader.h \
- Marlin\src\gcode\bedlevel\abl\../../../lcd/../sd/SdFile.h \
- Marlin\src\gcode\bedlevel\abl\../../../lcd/../sd/SdBaseFile.h \
- Marlin\src\gcode\bedlevel\abl\../../../lcd/../sd/SdFatConfig.h \
- Marlin\src\gcode\bedlevel\abl\../../../lcd/../sd/SdVolume.h \
- Marlin\src\gcode\bedlevel\abl\../../../lcd/../sd/Sd2Card_sdio.h \
- Marlin\src\gcode\bedlevel\abl\../../../lcd/../sd/SdFatStructs.h \
- Marlin\src\gcode\bedlevel\abl\../../../lcd/../feature/pause.h \
- Marlin\src\gcode\bedlevel\abl\../../../lcd/../feature/../libs/nozzle.h \
- Marlin\src\gcode\bedlevel\abl\../../../lcd/lcdprint.h \
- Marlin\src\gcode\bedlevel\abl\../../../lcd/fontutils.h \
  Marlin\src\gcode\bedlevel\abl\../../../core/debug_out.h
 
 Marlin\src\gcode\bedlevel\abl\../../../inc/MarlinConfig.h:
@@ -327,33 +313,5 @@ Marlin\src\gcode\bedlevel\abl\../../../module/stepper.h:
 Marlin\src\gcode\bedlevel\abl\../../../module/stepper/indirection.h:
 
 Marlin\src\gcode\bedlevel\abl\../../../module/probe.h:
-
-Marlin\src\gcode\bedlevel\abl\../../../lcd/marlinui.h:
-
-Marlin\src\gcode\bedlevel\abl\../../../lcd/../libs/buzzer.h:
-
-Marlin\src\gcode\bedlevel\abl\../../../lcd/../libs/circularqueue.h:
-
-Marlin\src\gcode\bedlevel\abl\../../../lcd/../sd/cardreader.h:
-
-Marlin\src\gcode\bedlevel\abl\../../../lcd/../sd/SdFile.h:
-
-Marlin\src\gcode\bedlevel\abl\../../../lcd/../sd/SdBaseFile.h:
-
-Marlin\src\gcode\bedlevel\abl\../../../lcd/../sd/SdFatConfig.h:
-
-Marlin\src\gcode\bedlevel\abl\../../../lcd/../sd/SdVolume.h:
-
-Marlin\src\gcode\bedlevel\abl\../../../lcd/../sd/Sd2Card_sdio.h:
-
-Marlin\src\gcode\bedlevel\abl\../../../lcd/../sd/SdFatStructs.h:
-
-Marlin\src\gcode\bedlevel\abl\../../../lcd/../feature/pause.h:
-
-Marlin\src\gcode\bedlevel\abl\../../../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\gcode\bedlevel\abl\../../../lcd/lcdprint.h:
-
-Marlin\src\gcode\bedlevel\abl\../../../lcd/fontutils.h:
 
 Marlin\src\gcode\bedlevel\abl\../../../core/debug_out.h:

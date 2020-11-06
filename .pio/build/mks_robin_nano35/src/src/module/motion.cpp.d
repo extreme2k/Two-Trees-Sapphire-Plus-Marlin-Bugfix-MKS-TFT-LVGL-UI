@@ -103,20 +103,14 @@
  Marlin\src\module\../feature/bedlevel/bedlevel.h \
  Marlin\src\module\../feature/bedlevel/abl/abl.h \
  Marlin\src\module\../feature/bltouch.h \
- Marlin\src\module\../lcd/marlinui.h \
- Marlin\src\module\../lcd/../libs/buzzer.h \
- Marlin\src\module\../lcd/../libs/circularqueue.h \
- Marlin\src\module\../lcd/../sd/cardreader.h \
- Marlin\src\module\../lcd/../sd/SdFile.h \
- Marlin\src\module\../lcd/../sd/SdBaseFile.h \
- Marlin\src\module\../lcd/../sd/SdFatConfig.h \
- Marlin\src\module\../lcd/../sd/SdVolume.h \
- Marlin\src\module\../lcd/../sd/Sd2Card_sdio.h \
- Marlin\src\module\../lcd/../sd/SdFatStructs.h \
- Marlin\src\module\../lcd/../feature/pause.h \
- Marlin\src\module\../lcd/../feature/../libs/nozzle.h \
- Marlin\src\module\../lcd/lcdprint.h Marlin\src\module\../lcd/fontutils.h \
  Marlin\src\module\../feature/runout.h \
+ Marlin\src\module\../feature/../sd/cardreader.h \
+ Marlin\src\module\../feature/../sd/SdFile.h \
+ Marlin\src\module\../feature/../sd/SdBaseFile.h \
+ Marlin\src\module\../feature/../sd/SdFatConfig.h \
+ Marlin\src\module\../feature/../sd/SdVolume.h \
+ Marlin\src\module\../feature/../sd/Sd2Card_sdio.h \
+ Marlin\src\module\../feature/../sd/SdFatStructs.h \
  Marlin\src\module\../feature/../module/printcounter.h \
  Marlin\src\module\../feature/../module/../libs/stopwatch.h \
  Marlin\src\module\../feature/../module/../libs/duration_t.h \
@@ -340,35 +334,21 @@ Marlin\src\module\../feature/bedlevel/abl/abl.h:
 
 Marlin\src\module\../feature/bltouch.h:
 
-Marlin\src\module\../lcd/marlinui.h:
-
-Marlin\src\module\../lcd/../libs/buzzer.h:
-
-Marlin\src\module\../lcd/../libs/circularqueue.h:
-
-Marlin\src\module\../lcd/../sd/cardreader.h:
-
-Marlin\src\module\../lcd/../sd/SdFile.h:
-
-Marlin\src\module\../lcd/../sd/SdBaseFile.h:
-
-Marlin\src\module\../lcd/../sd/SdFatConfig.h:
-
-Marlin\src\module\../lcd/../sd/SdVolume.h:
-
-Marlin\src\module\../lcd/../sd/Sd2Card_sdio.h:
-
-Marlin\src\module\../lcd/../sd/SdFatStructs.h:
-
-Marlin\src\module\../lcd/../feature/pause.h:
-
-Marlin\src\module\../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\module\../lcd/lcdprint.h:
-
-Marlin\src\module\../lcd/fontutils.h:
-
 Marlin\src\module\../feature/runout.h:
+
+Marlin\src\module\../feature/../sd/cardreader.h:
+
+Marlin\src\module\../feature/../sd/SdFile.h:
+
+Marlin\src\module\../feature/../sd/SdBaseFile.h:
+
+Marlin\src\module\../feature/../sd/SdFatConfig.h:
+
+Marlin\src\module\../feature/../sd/SdVolume.h:
+
+Marlin\src\module\../feature/../sd/Sd2Card_sdio.h:
+
+Marlin\src\module\../feature/../sd/SdFatStructs.h:
 
 Marlin\src\module\../feature/../module/printcounter.h:
 

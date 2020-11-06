@@ -94,22 +94,7 @@
  Marlin\src\lcd\../sd/cardreader.h Marlin\src\lcd\../sd/SdFile.h \
  Marlin\src\lcd\../sd/SdBaseFile.h Marlin\src\lcd\../sd/SdFatConfig.h \
  Marlin\src\lcd\../sd/SdVolume.h Marlin\src\lcd\../sd/Sd2Card_sdio.h \
- Marlin\src\lcd\../sd/SdFatStructs.h Marlin\src\lcd\../MarlinCore.h \
- Marlin\src\lcd\../feature/pause.h \
- Marlin\src\lcd\../feature/../libs/nozzle.h \
- Marlin\src\lcd\../module/motion.h Marlin\src\lcd\lcdprint.h \
- Marlin\src\lcd\fontutils.h Marlin\src\lcd\../module/printcounter.h \
- Marlin\src\lcd\../module/../libs/stopwatch.h \
- Marlin\src\lcd\../module/../libs/duration_t.h \
- Marlin\src\lcd\../gcode/queue.h Marlin\src\lcd\../module/temperature.h \
- Marlin\src\lcd\../module/thermistor/thermistors.h \
- Marlin\src\lcd\../module/thermistor/thermistor_1.h \
- Marlin\src\lcd\../module/planner.h \
- Marlin\src\lcd\../module/../feature/fwretract.h \
- Marlin\src\lcd\../module/settings.h \
- Marlin\src\lcd\../module/../HAL/shared/eeprom_api.h \
- Marlin\src\lcd\../module/../HAL/shared/../../libs/crc16.h \
- Marlin\src\lcd\menu/menu.h Marlin\src\lcd\menu/../../libs/numtostr.h
+ Marlin\src\lcd\../sd/SdFatStructs.h
 
 Marlin\src\lcd\../inc/MarlinConfig.h:
 
@@ -314,43 +299,3 @@ Marlin\src\lcd\../sd/SdVolume.h:
 Marlin\src\lcd\../sd/Sd2Card_sdio.h:
 
 Marlin\src\lcd\../sd/SdFatStructs.h:
-
-Marlin\src\lcd\../MarlinCore.h:
-
-Marlin\src\lcd\../feature/pause.h:
-
-Marlin\src\lcd\../feature/../libs/nozzle.h:
-
-Marlin\src\lcd\../module/motion.h:
-
-Marlin\src\lcd\lcdprint.h:
-
-Marlin\src\lcd\fontutils.h:
-
-Marlin\src\lcd\../module/printcounter.h:
-
-Marlin\src\lcd\../module/../libs/stopwatch.h:
-
-Marlin\src\lcd\../module/../libs/duration_t.h:
-
-Marlin\src\lcd\../gcode/queue.h:
-
-Marlin\src\lcd\../module/temperature.h:
-
-Marlin\src\lcd\../module/thermistor/thermistors.h:
-
-Marlin\src\lcd\../module/thermistor/thermistor_1.h:
-
-Marlin\src\lcd\../module/planner.h:
-
-Marlin\src\lcd\../module/../feature/fwretract.h:
-
-Marlin\src\lcd\../module/settings.h:
-
-Marlin\src\lcd\../module/../HAL/shared/eeprom_api.h:
-
-Marlin\src\lcd\../module/../HAL/shared/../../libs/crc16.h:
-
-Marlin\src\lcd\menu/menu.h:
-
-Marlin\src\lcd\menu/../../libs/numtostr.h:

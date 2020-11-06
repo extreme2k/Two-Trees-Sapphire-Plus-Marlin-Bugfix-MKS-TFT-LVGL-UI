@@ -106,11 +106,6 @@
  Marlin\src\gcode\feature\powerloss\../../../lcd/marlinui.h \
  Marlin\src\gcode\feature\powerloss\../../../lcd/../libs/buzzer.h \
  Marlin\src\gcode\feature\powerloss\../../../lcd/../libs/circularqueue.h \
- Marlin\src\gcode\feature\powerloss\../../../lcd/../MarlinCore.h \
- Marlin\src\gcode\feature\powerloss\../../../lcd/../feature/pause.h \
- Marlin\src\gcode\feature\powerloss\../../../lcd/../feature/../libs/nozzle.h \
- Marlin\src\gcode\feature\powerloss\../../../lcd/lcdprint.h \
- Marlin\src\gcode\feature\powerloss\../../../lcd/fontutils.h \
  Marlin\src\gcode\feature\powerloss\../../../core/debug_out.h
 
 Marlin\src\gcode\feature\powerloss\../../../inc/MarlinConfig.h:
@@ -324,15 +319,5 @@ Marlin\src\gcode\feature\powerloss\../../../lcd/marlinui.h:
 Marlin\src\gcode\feature\powerloss\../../../lcd/../libs/buzzer.h:
 
 Marlin\src\gcode\feature\powerloss\../../../lcd/../libs/circularqueue.h:
-
-Marlin\src\gcode\feature\powerloss\../../../lcd/../MarlinCore.h:
-
-Marlin\src\gcode\feature\powerloss\../../../lcd/../feature/pause.h:
-
-Marlin\src\gcode\feature\powerloss\../../../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\gcode\feature\powerloss\../../../lcd/lcdprint.h:
-
-Marlin\src\gcode\feature\powerloss\../../../lcd/fontutils.h:
 
 Marlin\src\gcode\feature\powerloss\../../../core/debug_out.h:

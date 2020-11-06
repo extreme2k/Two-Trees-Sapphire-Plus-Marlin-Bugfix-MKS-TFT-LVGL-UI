@@ -99,20 +99,7 @@
  Marlin\src\module\thermistor/thermistor_1.h \
  Marlin\src\module\../core/debug_out.h \
  Marlin\src\module\../feature/bedlevel/bedlevel.h \
- Marlin\src\module\../feature/bedlevel/abl/abl.h \
- Marlin\src\module\../lcd/marlinui.h \
- Marlin\src\module\../lcd/../libs/buzzer.h \
- Marlin\src\module\../lcd/../libs/circularqueue.h \
- Marlin\src\module\../lcd/../sd/cardreader.h \
- Marlin\src\module\../lcd/../sd/SdFile.h \
- Marlin\src\module\../lcd/../sd/SdBaseFile.h \
- Marlin\src\module\../lcd/../sd/SdFatConfig.h \
- Marlin\src\module\../lcd/../sd/SdVolume.h \
- Marlin\src\module\../lcd/../sd/Sd2Card_sdio.h \
- Marlin\src\module\../lcd/../sd/SdFatStructs.h \
- Marlin\src\module\../lcd/../feature/pause.h \
- Marlin\src\module\../lcd/../feature/../libs/nozzle.h \
- Marlin\src\module\../lcd/lcdprint.h Marlin\src\module\../lcd/fontutils.h
+ Marlin\src\module\../feature/bedlevel/abl/abl.h
 
 Marlin\src\module\../inc/MarlinConfigPre.h:
 
@@ -323,31 +310,3 @@ Marlin\src\module\../core/debug_out.h:
 Marlin\src\module\../feature/bedlevel/bedlevel.h:
 
 Marlin\src\module\../feature/bedlevel/abl/abl.h:
-
-Marlin\src\module\../lcd/marlinui.h:
-
-Marlin\src\module\../lcd/../libs/buzzer.h:
-
-Marlin\src\module\../lcd/../libs/circularqueue.h:
-
-Marlin\src\module\../lcd/../sd/cardreader.h:
-
-Marlin\src\module\../lcd/../sd/SdFile.h:
-
-Marlin\src\module\../lcd/../sd/SdBaseFile.h:
-
-Marlin\src\module\../lcd/../sd/SdFatConfig.h:
-
-Marlin\src\module\../lcd/../sd/SdVolume.h:
-
-Marlin\src\module\../lcd/../sd/Sd2Card_sdio.h:
-
-Marlin\src\module\../lcd/../sd/SdFatStructs.h:
-
-Marlin\src\module\../lcd/../feature/pause.h:
-
-Marlin\src\module\../lcd/../feature/../libs/nozzle.h:
-
-Marlin\src\module\../lcd/lcdprint.h:
-
-Marlin\src\module\../lcd/fontutils.h:
